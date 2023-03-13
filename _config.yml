@@ -24,10 +24,10 @@ baseurl: /LOFFER
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+avatar: https://raw.githubusercontent.com/khieno/Daiwuzi/master/images/head 300x300.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
+favicon: https://raw.githubusercontent.com/khieno/Daiwuzi/master/images/icon 64x64.png
 
 
 # 菜单中的按钮
@@ -49,12 +49,12 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo: https://weibo.com/u/7167917960 #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  weibo: u/7167917960 #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
-  mastodon: https://wxw.ooo/@daiwuzi # 
+  mastodon: @daiwuzi # https://wxw.ooo/<>
   email: #youremailaddress@mail.com
   facebook: #https://www.facebook.com/<>
-  ao3: https://archiveofourown.org/users/khieno/pseuds/khieno #https://www.flickr.com/<>
+  ao3: khieno/pseuds/khieno #https://archiveofourown.org/users/<>
   github: FromEndWorld/loffer #https://github.com/<>
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
