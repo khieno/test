@@ -24,10 +24,10 @@ baseurl: /LOFFER
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://github.com/khieno/Daiwuzi/tree/master/images/head 300x300.png
+avatar: https://github.com/khieno/Daiwuzi/blob/master/images/head%20300x300.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://github.com/khieno/Daiwuzi/tree/master/images/icon 64x64.png
+favicon: https://github.com/khieno/Daiwuzi/blob/master/images/icon%2064x64.png
 
 
 # 菜单中的按钮
@@ -49,7 +49,7 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo:  daiwuzi#请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  weibo:  https://www.weibo.com/daiwuzi #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   mastodon: @daiwuzi # https://wxw.ooo/<>
   email: #youremailaddress@mail.com
